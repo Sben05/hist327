@@ -1,0 +1,5 @@
+streamlit
+Pillow
+openai==0.28.1
+streamlit-lottie
+requests
